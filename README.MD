@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src=".github/assets/Programa%20P%C3%A9-de-Meia.jpg"
     width="400"  
 />
 </p>
